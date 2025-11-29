@@ -8,5 +8,5 @@ Each folder (e.g., `ResNet_on_ISIC/`) contains:
 - testing/evaluation scripts when sparse muting applied
 - utility functions used in the experiments
 
-We have also uploaded the **metadata files** used in our experiments.  
+We have also uploaded the **metadata files** used in our experiments like Split-Metadata_WB for WaterBirds dataset and Split-Metadata_ISIC for ISIC dataset.  
 These files provide the labels and additional information required to fully reproduce our results.
