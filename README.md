@@ -1,7 +1,8 @@
 # Weakly Supervised Shortcut Learning Mitigation Using Sparse AutoEncoders
 Code and data for the paper "Weakly Supervised Shortcut Learning Mitigation Using Sparse AutoEncoders". Find the [full paper + appendix here](https://github.com/Arsu-Lab/Weakly-Supervised-Shortcut-Mitigation-Sparse-AutoEncoders/blob/main/Full_paper_SAE_shortcut_mitigation.pdf).
+
 The repository is organized into model-specific directories.  
-Each folder (e.g., `AlexNet_on_ISIC/`) contains:
+Each folder (e.g., `ResNet_on_ISIC/`) contains:
 
 - training scripts  
 - testing/evaluation scripts when sparse muting applied
